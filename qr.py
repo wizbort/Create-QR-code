@@ -1,8 +1,8 @@
 import qrcode
 from xml.etree.ElementTree import Element, SubElement, tostring
 
-# Ссылка для QR-кода
-url = "https://t.me/georg_xv"
+# Ссылка для QR-кода / URL for QR-code
+url = "PASTE_URL"
 
 # Создание QR-кода
 qr = qrcode.QRCode(
